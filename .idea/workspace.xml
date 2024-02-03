@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b855395-d069-4b31-8a31-f96d8c0e99e0" name="Changes" comment="" />
+    <list default="true" id="0b855395-d069-4b31-8a31-f96d8c0e99e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/PythonLists/testgit.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLists/testgit.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
     "Python.testgit.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "newchanges",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
